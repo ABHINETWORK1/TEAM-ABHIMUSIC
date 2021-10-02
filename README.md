@@ -1,9 +1,9 @@
-<h2 align="centre">Telegram Group Music Player Bot 🎵</h2>
+<h2 align="centre">😘𝐒𝐍𝐄𝐇𝐀 𝐋𝐎𝐕𝐄 𝐀𝐁𝐇𝐈 𝐌𝐔𝐒𝐈𝐂🎵</h2>
 
 ### A bot that can play music on telegram group's voice call
 
 <p align="center">
-  <img src="https://telegra.ph/file/210a6cf99422cdd2d2902.jpg">
+  <img src="https://telegra.ph/file/e2985056a4f04fa0cc649.jpg">
 </p>
 
 <h3>Requirements 📝</h3>
@@ -11,7 +11,7 @@
 - FFmpeg
 - NodeJS [nodesource.com](https://nodesource.com/)
 - Python 3.7+
-- [PyTgCalls](https://github.com/pytgcalls/pytgcalls)
+- [SUPPORT GROUP](https://t.me/ABHI_NETWORK)
 
 ### Commands 🛠
 #### For all in group
@@ -28,9 +28,9 @@
 
 ### Deploy To Heroku</h4>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Infinity-Bots/GroupMusicPlayerBot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ABHINETWORK1/TEAM-ABHIMUSIC)
 
-Use [Repl Link](https://replit.com/@SpEcHiDe/GenerateStringSession) to get pyrogram string session
+Use [Repl Link](https://replit.com/@Botsupport/PatriciaXmusic) to get pyrogram string session
 
 ### Credits
 - [ImJanindu](https://github.com/ImJanindu): Dev
