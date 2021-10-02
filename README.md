@@ -33,8 +33,16 @@
 Use [Repl Link](https://replit.com/@Botsupport/PatriciaXmusic) to get pyrogram string session
 
 ### Credits
-- [ImJanindu](https://github.com/ImJanindu): Dev
-- [InukaASiTH](https://github.com/InukaAsith): Dev
-- [Laky](https://github.com/Laky-64) & [Andrew](https://github.com/AndrewLaneX): PyTgCalls
-- [Original Repo](https://github.com/suprojects/CallsMusic)
-- [Infinity BOTs](https://t.me/Infinity_BOTs)
+
+[ ABHISHEK ] (CREATOR) (HTTP://T.ME/SNEHU_IS_MINE)
+
+[ SNEHA ] ( OWNER ) (HTTP://T.ME/ABHI_IS_MINE)
+
+[ PRATHAM ] (EDITER) (http://t.me/AFT_14)
+
+[ DEEPTY ] (LOL KI DEVI) (http://t.me/DEEPTY_01)
+
+[ ROHIT KUMAR ] (FALTU) (http://t.me/ALONE_ROHIT_01)
+
+
+
