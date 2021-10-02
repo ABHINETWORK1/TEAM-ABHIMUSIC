@@ -249,7 +249,7 @@ async def play(_, message: Message):
                 
         except Exception as e:
             await lel.edit(
-                "❌ Song not found.\n\nTry another song or maybe spell it properly."
+                "❌ Beta jao song ka nam  acche se dekh kar ao.. aisa koi song nahi ha merepass 👀"
             )
             print(str(e))
             return
@@ -279,7 +279,7 @@ async def play(_, message: Message):
         position = await queues.put(message.chat.id, file=file_path)
         await message.reply_photo(
         photo="final.png", 
-        caption="**🎵 Song:** {}\n**🕒 Duration:** {} min\n**👤 Added By:** {}\n\n**#⃣ Queued Position:** {}".format(
+        caption="**uploaded by @ABHI_NETWORK ✨Jo Aap Madhur Dhun Me Khoye ho Vo Ye Hai Song:** {}\n**🕒 Afsos, Ye Ganna Itni Der tak HI Apka Sath DE Payega Duration:** {} min\n**👤 Mahan Insaan Jisne Dil ko Jagane Wali Iz Madhur Dhun Ko Chuna Hai.. Added By:** {}\n\n**#⃣ Jis Position Pe Apke Ganna Hai Samaj sakta hu Apka Dukh Time Lagega 🥲 Queued Position:** {}".format(
         title, duration, message.from_user.mention(), position
         ),
         reply_markup=keyboard)
@@ -290,7 +290,7 @@ async def play(_, message: Message):
         await message.reply_photo(
         photo="final.png",
         reply_markup=keyboard,
-        caption="**🎵 Song:** {}\n**🕒 Duration:** {} min\n**👤 Added By:** {}\n\n**▶️ Now Playing at `{}`...**".format(
+        caption="**uploaded by @ABHI_NETWORK 🎵 Jo Aap Madhur Dhun Me Khoye ho Vo Ye Hai Song:** {}\n**🕒 Afsos, Ye Ganna Itni Der tak HI Apka Sath DE Payega Duration:** {} min\n**👤 Mahan Insaan Jisne Dil ko Jagane Wali Iz Madhur Dhun Ko Chuna Hai.. Added By:** {}\n\n**▶️ Now Playing at {}...**".format(
         title, duration, message.from_user.mention(), message.chat.title
         ), )
         os.remove("final.png")
