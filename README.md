@@ -30,7 +30,7 @@
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ABHINETWORK1/TEAM-ABHIMUSIC)
 
-[![Run on Repl.it](https://repl.it/badge/github/STARKGANG/friday)(https://replit.com/@Botsupport/PatriciaXmusic) to get pyrogram string session
+[[Run on Repl.it](https://repl.it/badge/github/STARKGANG/friday)(https://replit.com/@Botsupport/PatriciaXmusic) to get pyrogram string session
 
 ### Credits
 
