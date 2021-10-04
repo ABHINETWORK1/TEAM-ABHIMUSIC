@@ -30,6 +30,8 @@
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ABHINETWORK1/TEAM-ABHIMUSIC)
 
+## Sᴛʀɪɴɢ Sᴇssɪᴏɴ ⚙️
+
 [![Run on Repl.it](https://repl.it/badge/github/STARKGANG/friday)](https://replit.com/@Botsupport/PatriciaXmusic)
 
 ### Credits
