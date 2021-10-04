@@ -11,7 +11,7 @@
 - FFmpeg
 - NodeJS [nodesource.com](https://nodesource.com/)
 - Python 3.7+
-- <a href="https://t.me/ABHI_NETWORK"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram">(https://t.me/ABHI_NETWORK)
+- <a href="https://t.me/ABHI_NETWORK"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram">
 
 ### Commands 🛠
 #### For all in group
