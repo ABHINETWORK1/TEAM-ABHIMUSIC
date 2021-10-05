@@ -1,9 +1,9 @@
-<h2 align="centre">😘𝐒𝐍𝐄𝐇𝐀 𝐋𝐎𝐕𝐄 𝐀𝐁𝐇𝐈 𝐌𝐔𝐒𝐈𝐂🎵</h2>
+<h2 align="centre"> @Shubhanshutya 𝐌𝐔𝐒𝐈𝐂🎵</h2>
 
 ### A bot that can play music on telegram group's voice call
 
 <p align="center">
-  <img src="https://telegra.ph/file/e2985056a4f04fa0cc649.jpg">
+  <img src="https://telegra.ph/file/1afffcf7465bde2cb3777.jpg">
 </p>
 
 <h3>Requirements 📝</h3>
@@ -11,7 +11,7 @@
 - FFmpeg
 - NodeJS [nodesource.com](https://nodesource.com/)
 - Python 3.7+
-- <a href="https://t.me/ABHI_NETWORK"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram">
+- <a href="https://t.me/The_Godfather_Network"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram">
 
 ### Commands 🛠
 #### For all in group
@@ -36,16 +36,11 @@
 
 ### Credits
 
-[ ABHISHEK ] (CREATOR) (HTTP://T.ME/SNEHU_IS_MINE)
+[ @Timesisnotwaiting ] (CREATOR) 
 
-[ SNEHA ] ( OWNER ) (HTTP://T.ME/ABHI_IS_MINE)
+[ @Shubhanshutya ] ( OWNER ) 
 
-[ PRATHAM ] (EDITER) (http://t.me/AFT_14)
-
-[ DEEPTY ] (LOL KI DEVI) (http://t.me/DEEPTY_01)
-
-[ ROHIT KUMAR ] (FALTU) (http://t.me/ALONE_ROHIT_01)
 
 ### Support & Updates 🎑
-<a href="https://t.me/ABHI_NETWORK"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/ABHI_NETWORK1"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/The_Godfather_Network"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/ABHI_NETWORK1"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 

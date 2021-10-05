@@ -92,7 +92,7 @@ async def generate_cover(requested_by, title, views, duration, thumbnail):
                    & ~filters.via_bot)
 async def play(_, message: Message):
 
-    lel = await message.reply("🔄 **SNEHABHI SERVER😗 𝚁𝚄𝙺𝙾 𝚉𝙰𝚁𝙰 𝚂𝙰𝙱𝙰𝚁 𝙺𝙰𝚁𝙾 ⭐ 𝚂𝙾𝙽𝙶 𝙳𝙷𝚄𝙽𝙳𝙷 𝚁𝙰𝙷𝙰 𝙷𝚄🎶🤟...**")
+    lel = await message.reply("🔄 **Shubhanshu SERVER😗 𝚁𝚄𝙺𝙾 𝚉𝙰𝚁𝙰 𝚂𝙰𝙱𝙰𝚁 𝙺𝙰𝚁𝙾 ⭐ 𝚂𝙾𝙽𝙶 𝙳𝙷𝚄𝙽𝙳𝙷 𝚁𝙰𝙷𝙰 𝙷𝚄🎶🤟...**")
     
     administrators = await get_administrators(message.chat)
     chid = message.chat.id
@@ -100,7 +100,7 @@ async def play(_, message: Message):
     try:
         user = await USER.get_me()
     except:
-        user.first_name = "Snehabhi"
+        user.first_name = "Shubhanshu"
     usar = user
     wew = usar.id
     try:
@@ -118,7 +118,7 @@ async def play(_, message: Message):
                 try:
                     await USER.join_chat(invitelink)
                     await USER.send_message(
-                        message.chat.id, "**SNEHABHI 𝗠𝘂𝘀𝗶𝗰 🎶 𝗔𝘀𝘀𝗶𝘀𝘁𝗮𝗻𝘁 😎 𝗝𝗼𝗶𝗻𝗲𝗱 𝗧𝗵𝗶𝘀 😉 𝗚𝗿𝘂𝗼𝗽 𝗙𝗼𝗿 𝗣𝗹𝗮𝘆 𝗠𝘂𝘀𝗶𝗰 ❤️🤟🎵**")
+                        message.chat.id, "**Shubhanshu 𝗠𝘂𝘀𝗶𝗰 🎶 𝗔𝘀𝘀𝗶𝘀𝘁𝗮𝗻𝘁 😎 𝗝𝗼𝗶𝗻𝗲𝗱 𝗧𝗵𝗶𝘀 😉 𝗚𝗿𝘂𝗼𝗽 𝗙𝗼𝗿 𝗣𝗹𝗮𝘆 𝗠𝘂𝘀𝗶𝗰 ❤️🤟🎵**")
 
                 except UserAlreadyParticipant:
                     pass
@@ -153,7 +153,7 @@ async def play(_, message: Message):
                 [
                     InlineKeyboardButton(
                         text="Channel 🔊",
-                        url="https://t.me/ABHI_NETWORK1")
+                        url="https://t.me/The_Godfather_Network")
                    
                 ]
             ]
@@ -193,7 +193,7 @@ async def play(_, message: Message):
                             text="YouTube 🎬",
                             url=f"{url}"),
                         InlineKeyboardButton(
-                            text="Download 📥",
+                            text="karo download 📥",
                             url=f"{durl}")
 
                     ]
@@ -201,7 +201,7 @@ async def play(_, message: Message):
             )
         except Exception as e:
             title = "NaN"
-            thumb_name = "https://telegra.ph/file/e2985056a4f04fa0cc649.png"
+            thumb_name = "https://telegra.ph/file/0d557a885d9efe0a8b3b8.jpg"
             duration = "NaN"
             views = "NaN"
             keyboard = InlineKeyboardMarkup(
@@ -261,7 +261,7 @@ async def play(_, message: Message):
                             text="YouTube 🎬",
                             url=f"{url}"),
                         InlineKeyboardButton(
-                            text="Download 📥",
+                            text="karo download 📥",
                             url=f"{durl}")
 
                     ]
@@ -279,7 +279,7 @@ async def play(_, message: Message):
         position = await queues.put(message.chat.id, file=file_path)
         await message.reply_photo(
         photo="final.png", 
-        caption="**uploaded by @ABHI_NETWORK ✨Jo Aap Madhur Dhun Me Khoye ho Vo Ye Hai Song:** {}\n**🕒 Afsos, Ye Ganna Itni Der tak HI Apka Sath DE Payega Duration:** {} min\n**👤 Mahan Insaan Jisne Dil ko Jagane Wali Iz Madhur Dhun Ko Chuna Hai.. Added By:** {}\n\n**#⃣ Jis Position Pe Apke Ganna Hai Samaj sakta hu Apka Dukh Time Lagega 🥲 Queued Position:** {}".format(
+        caption="**uploaded by @Shubhanshutya ✨Jo Aap Madhur Dhun Me Khoye ho Vo Ye Hai Song:** {}\n**🕒 Afsos, Ye Ganna Itni Der tak HI Apka Sath DE Payega Duration:** {} min\n**👤 Mahan Insaan Jisne Dil ko Jagane Wali Iz Madhur Dhun Ko Chuna Hai.. Added By:** {}\n\n**#⃣ Jis Position Pe Apke Ganna Hai Samaj sakta hu Apka Dukh Time Lagega 🥲 Queued Position:** {}".format(
         title, duration, message.from_user.mention(), position
         ),
         reply_markup=keyboard)
@@ -290,7 +290,7 @@ async def play(_, message: Message):
         await message.reply_photo(
         photo="final.png",
         reply_markup=keyboard,
-        caption="**uploaded by @ABHI_NETWORK 🎵 Jo Aap Madhur Dhun Me Khoye ho Vo Ye Hai Song:** {}\n**🕒 Afsos, Ye Ganna Itni Der tak HI Apka Sath DE Payega Duration:** {} min\n**👤 Mahan Insaan Jisne Dil ko Jagane Wali Iz Madhur Dhun Ko Chuna Hai.. Added By:** {}\n\n**▶️ Now Playing at {}...**".format(
+        caption="**uploaded by @Shubhanshutya 🎵 Jo Aap Madhur Dhun Me Khoye ho Vo Ye Hai Song:** {}\n**🕒 Afsos, Ye Ganna Itni Der tak HI Apka Sath DE Payega Duration:** {} min\n**👤 Mahan Insaan Jisne Dil ko Jagane Wali Iz Madhur Dhun Ko Chuna Hai.. Added By:** {}\n\n**▶️ Now Playing at {}...**".format(
         title, duration, message.from_user.mention(), message.chat.title
         ), )
         os.remove("final.png")
