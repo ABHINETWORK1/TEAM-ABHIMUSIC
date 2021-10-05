@@ -36,15 +36,15 @@
 
 ### Credits
 
-[ ABHISHEK ] (CREATOR)(HTTP://T.ME/SNEHU_IS_MINE)
+[ ABHISHEK (REATOR)](HTTP://T.ME/SNEHU_IS_MINE)
 
-[ SNEHA ] ( OWNER )(HTTP://T.ME/ABHI_IS_MINE)
+[ SNEHA (OWNER)](HTTP://T.ME/ABHI_IS_MINE)
 
-[ PRATHAM ] (EDITER)(http://t.me/AFT_14)
+[ PRATHAM (EDITER)](http://t.me/AFT_14)
 
-[ DEEPTY ] (LOL KI DEVI)(http://t.me/DEEPTY_01)
+[ DEEPTY (LOL KI DEVI)](http://t.me/DEEPTY_01)
 
-[ ROHIT KUMAR ] (FALTU)(http://t.me/ALONE_ROHIT_01)
+[ROHIT KUMAR (FALTU)](http://t.me/ALONE_ROHIT_01)
 
 ### Support & Updates 🎑
 <a href="https://t.me/ABHI_NETWORK"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/ABHI_NETWORK1"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
