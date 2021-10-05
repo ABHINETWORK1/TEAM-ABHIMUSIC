@@ -100,7 +100,7 @@ async def play(_, message: Message):
     try:
         user = await USER.get_me()
     except:
-        user.first_name = "Snehabhi"
+        user.first_name = "Shubhanshu"
     usar = user
     wew = usar.id
     try:
@@ -153,7 +153,7 @@ async def play(_, message: Message):
                 [
                     InlineKeyboardButton(
                         text="Channel 🔊",
-                        url="https://t.me/ABHI_NETWORK1")
+                        url="@Shubhanshutya")
                    
                 ]
             ]
@@ -290,7 +290,7 @@ async def play(_, message: Message):
         await message.reply_photo(
         photo="final.png",
         reply_markup=keyboard,
-        caption="**uploaded by @ABHI_NETWORK 🎵 Jo Aap Madhur Dhun Me Khoye ho Vo Ye Hai Song:** {}\n**🕒 Afsos, Ye Ganna Itni Der tak HI Apka Sath DE Payega Duration:** {} min\n**👤 Mahan Insaan Jisne Dil ko Jagane Wali Iz Madhur Dhun Ko Chuna Hai.. Added By:** {}\n\n**▶️ Now Playing at {}...**".format(
+        caption="**uploaded by @Shubhanshutya 🎵 Jo Aap Madhur Dhun Me Khoye ho Vo Ye Hai Song:** {}\n**🕒 Afsos, Ye Ganna Itni Der tak HI Apka Sath DE Payega Duration:** {} min\n**👤 Mahan Insaan Jisne Dil ko Jagane Wali Iz Madhur Dhun Ko Chuna Hai.. Added By:** {}\n\n**▶️ Now Playing at {}...**".format(
         title, duration, message.from_user.mention(), message.chat.title
         ), )
         os.remove("final.png")
