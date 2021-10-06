@@ -19,10 +19,10 @@ Add me to your group and play music freely!**
             [
                 [
                     InlineKeyboardButton(
-                        "🛠 Source Code 🛠", url="https://t.me/ABHI_NETWORK")
+                        "🛠 Source Code 🛠", url="https://t.me/SNEHABHI_SERVER")
                   ],[
                     InlineKeyboardButton(
-                        "💬 Group", url="https://t.me/SNEHABHI_NETWORK"
+                        "💬 Group", url="https://t.me/SNEHABHI_SERVER"
                     ),
                     InlineKeyboardButton(
                         "🔊 Channel", url="https://t.me/ABHI_NETWORK1"
