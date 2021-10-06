@@ -152,8 +152,11 @@ async def play(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        text="Channel 🔊",
-                        url="https://t.me/ABHI_NETWORK1")
+                        text="💫𝚄𝙿𝙻𝙾𝙰𝙳𝙴𝚁✨",
+                        url="https://t.me/ABHI_NETWORK"),
+                    InlineKeyboardButton(
+                        text="💫𝚃𝙰𝙻𝙺 𝚃𝙾 𝙾𝚆𝙽𝙴𝚁✨",
+                        url="http://t.me/SNEHU_IS_MINE")
                    
                 ]
             ]
@@ -190,11 +193,11 @@ async def play(_, message: Message):
                 [
                     [
                         InlineKeyboardButton(
-                            text="YouTube 🎬",
-                            url=f"{url}"),
-                        InlineKeyboardButton(
-                            text="Download 📥",
-                            url=f"{durl}")
+                        text="💫𝚄𝙿𝙻𝙾𝙰𝙳𝙴𝚁✨",
+                        url="https://t.me/ABHI_NETWORK"),
+                    InlineKeyboardButton(
+                        text="💫𝚃𝙰𝙻𝙺 𝚃𝙾 𝙾𝚆𝙽𝙴𝚁✨",
+                        url="http://t.me/SNEHU_IS_MINE")
 
                     ]
                 ]
@@ -208,8 +211,11 @@ async def play(_, message: Message):
                     [
                         [
                             InlineKeyboardButton(
-                                text="YouTube 🎬",
-                                url=f"https://youtube.com")
+                        text="💫𝚄𝙿𝙻𝙾𝙰𝙳𝙴𝚁✨",
+                        url="https://t.me/ABHI_NETWORK"),
+                    InlineKeyboardButton(
+                        text="💫𝚃𝙰𝙻𝙺 𝚃𝙾 𝙾𝚆𝙽𝙴𝚁✨",
+                        url="http://t.me/SNEHU_IS_MINE")
 
                         ]
                     ]
@@ -257,12 +263,11 @@ async def play(_, message: Message):
         keyboard = InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton(
-                            text="YouTube 🎬",
-                            url=f"{url}"),
-                        InlineKeyboardButton(
-                            text="Download 📥",
-                            url=f"{durl}")
+                        text="💫𝚄𝙿𝙻𝙾𝙰𝙳𝙴𝚁✨",
+                        url="https://t.me/ABHI_NETWORK"),
+                    InlineKeyboardButton(
+                        text="💫𝚃𝙰𝙻𝙺 𝚃𝙾 𝙾𝚆𝙽𝙴𝚁✨",
+                        url="http://t.me/SNEHU_IS_MINE")
 
                     ]
                 ]
