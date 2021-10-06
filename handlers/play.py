@@ -153,7 +153,7 @@ async def play(_, message: Message):
                 [
                     InlineKeyboardButton(
                         text="💫𝚄𝙿𝙻𝙾𝙰𝙳𝙴𝚁✨",
-                        url="https://t.me/ABHI_NETWORK"),
+                        url="https://t.me/SNEHABHI_SERVER"),
                     InlineKeyboardButton(
                         text="💫𝚃𝙰𝙻𝙺 𝚃𝙾 𝙾𝚆𝙽𝙴𝚁✨",
                         url="http://t.me/SNEHU_IS_MINE")
@@ -194,7 +194,7 @@ async def play(_, message: Message):
                     [
                         InlineKeyboardButton(
                         text="💫𝚄𝙿𝙻𝙾𝙰𝙳𝙴𝚁✨",
-                        url="https://t.me/ABHI_NETWORK"),
+                        url="https://t.me/SNEHABHI_SERVER"),
                     InlineKeyboardButton(
                         text="💫𝚃𝙰𝙻𝙺 𝚃𝙾 𝙾𝚆𝙽𝙴𝚁✨",
                         url="http://t.me/SNEHU_IS_MINE")
@@ -212,7 +212,7 @@ async def play(_, message: Message):
                         [
                             InlineKeyboardButton(
                         text="💫𝚄𝙿𝙻𝙾𝙰𝙳𝙴𝚁✨",
-                        url="https://t.me/ABHI_NETWORK"),
+                        url="https://t.me/SNEHABHI_SERVER"),
                     InlineKeyboardButton(
                         text="💫𝚃𝙰𝙻𝙺 𝚃𝙾 𝙾𝚆𝙽𝙴𝚁✨",
                         url="http://t.me/SNEHU_IS_MINE")
@@ -264,7 +264,7 @@ async def play(_, message: Message):
                 [
                     [
                         text="💫𝚄𝙿𝙻𝙾𝙰𝙳𝙴𝚁✨",
-                        url="https://t.me/ABHI_NETWORK"),
+                        url="https://t.me/SNEHABHI_SERVER"),
                     InlineKeyboardButton(
                         text="💫𝚃𝙰𝙻𝙺 𝚃𝙾 𝙾𝚆𝙽𝙴𝚁✨",
                         url="http://t.me/SNEHU_IS_MINE")
