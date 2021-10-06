@@ -11,7 +11,7 @@
 - FFmpeg
 - NodeJS [nodesource.com](https://nodesource.com/)
 - Python 3.7+
-- <a href="https://t.me/ABHI_NETWORK"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram">
+- <a href="https://t.me/SNEHABHI_SERVER"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram">
 
 ### Commands 🛠
 #### For all in group
@@ -47,5 +47,5 @@
 [ROHIT KUMAR (FALTU)](http://t.me/ALONE_ROHIT_01)
 
 ### Support & Updates 🎑
-<a href="https://t.me/ABHI_NETWORK"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/ABHI_NETWORK1"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/SNEHABHI_SERVER"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/ABHI_NETWORK1"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 
