@@ -11,7 +11,7 @@ async def start(_, message: Message):
     await message.reply_text(
         f"""**Hey, I'm SNEHABHI MUSIC🎵
 
-I can play music in your group's voice call. Developed by [ABHISHEK](https://t.me/ABHI_NETWORK).
+I can play music in your group's voice call. Developed by [ABHISHEK & SNEHU](https://t.me/SNEHABHI_SERVER).
 
 Add me to your group and play music freely!**
         """,
@@ -22,15 +22,19 @@ Add me to your group and play music freely!**
                         "🛠 Source Code 🛠", url="https://t.me/ABHI_NETWORK")
                   ],[
                     InlineKeyboardButton(
-                        "💬 Group", url="https://t.me/ABHI_NETWORK"
+                        "💬 Group", url="https://t.me/SNEHABHI_NETWORK"
                     ),
                     InlineKeyboardButton(
                         "🔊 Channel", url="https://t.me/ABHI_NETWORK1"
                     )
                 ],[ 
                     InlineKeyboardButton(
-                        "➕ Add To Your Group ➕", url="https://t.me/SNEHU_IS_MINE"
-                    )]
+                        "💫𝚃𝙰𝙻𝙺 𝚃𝙾 𝙾𝚆𝙽𝙴𝚁✨", url="https://t.me/SNEHU_IS_MINE"
+                    )
+                ],[
+                    InlineKeyboardButton(
+                        "💫𝙾𝚆𝙽𝙴𝚁 𝚀𝚄𝙴𝙴𝙽✨", url="HTTP://T.ME/ABHI_IS_MINE"
+                    )
             ]
         ),
      disable_web_page_preview=True
