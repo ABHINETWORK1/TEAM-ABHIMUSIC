@@ -181,8 +181,7 @@ async def play(_, message: Message):
             duration = results[0]["duration"]
             url_suffix = results[0]["url_suffix"]
             views = results[0]["views"]
-            durl = url
-            durl = durl.replace("youtube", "youtubepp")
+            
             
             secmul, dur, dur_arr = 1, 0, duration.split(':')
             for i in range(len(dur_arr)-1, -1, -1):
@@ -194,7 +193,7 @@ async def play(_, message: Message):
                     [
                         InlineKeyboardButton(
                         text="💫𝚄𝙿𝙻𝙾𝙰𝙳𝙴𝚁✨",
-                        url=f"https://t.me/SNEHABHI_SERVER"),
+                        url="https://t.me/SNEHABHI_SERVER"),
                     InlineKeyboardButton(
                         text="💫𝚃𝙰𝙻𝙺 𝚃𝙾 𝙾𝚆𝙽𝙴𝚁✨",
                         url="http://t.me/SNEHU_IS_MINE")
@@ -212,7 +211,7 @@ async def play(_, message: Message):
                         [
                             InlineKeyboardButton(
                         text="💫𝚄𝙿𝙻𝙾𝙰𝙳𝙴𝚁✨",
-                        url=f"https://t.me/SNEHABHI_SERVER"),
+                        url="https://t.me/SNEHABHI_SERVER"),
                     InlineKeyboardButton(
                         text="💫𝚃𝙰𝙻𝙺 𝚃𝙾 𝙾𝚆𝙽𝙴𝚁✨",
                         url="http://t.me/SNEHU_IS_MINE")
@@ -245,8 +244,7 @@ async def play(_, message: Message):
             duration = results[0]["duration"]
             url_suffix = results[0]["url_suffix"]
             views = results[0]["views"]
-            durl = url
-            durl = durl.replace("youtube", "youtubepp")
+            
 
             secmul, dur, dur_arr = 1, 0, duration.split(':')
             for i in range(len(dur_arr)-1, -1, -1):
