@@ -37,7 +37,7 @@ Add me to your group and play music freely!**
                     InlineKeyboardButton(
                         "💫𝙾𝚆𝙽𝙴𝚁 𝙺𝙸𝙽𝙶✨", url="HTTP://T.ME/SNEHU_IS_MINE")
                 ]
-          ),
+          ],
      disable_web_page_preview=True
     )
 
