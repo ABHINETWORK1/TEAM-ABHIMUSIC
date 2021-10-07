@@ -228,11 +228,11 @@ async def play(_, message: Message):
         file_path = await converter.convert(youtube.download(url))
     else:
         if len(message.command) < 2:
-            return await lel.edit("🧐 **/𝐏𝐋𝐀𝐘 𝐊𝐄 𝐁𝐀𝐃 𝐒𝐎𝐍𝐆🌺 𝐊𝐀 𝐍𝐀𝐌 𝐁𝐇𝐈 𝐋𝐈𝐊𝐇𝐍𝐀 🙄𝐇𝐎𝐓𝐀 𝐇𝐀𝐈🥺🧿🤟**")
-        await lel.edit("🔎 **𝚁𝚄𝙺𝙾 𝚉𝙰𝚁𝙰 𝚂𝙰𝙱𝙰𝚁 𝙺𝙰𝚁𝙾 ⭐ 𝚂𝙾𝙽𝙶 𝙳𝙷𝚄𝙽𝙳𝙷 𝚁𝙰𝙷𝙰 𝙷𝚄 ❤️...**")
+            return await lel.edit("🧐 **/𝐏𝐋𝐀𝐘 𝐊𝐄 𝐁𝐀𝐃 𝐒𝐎𝐍𝐆🌺 𝐊𝐀 𝐍𝐀𝐌 𝐁𝐇𝐈 𝐋𝐈𝐊𝐇𝐍𝐀 🙄𝐇𝐎𝐓𝐀 𝐇𝐀𝐈🥺🧿🤟...uploaded by @SNEHABHI_SERVER ✨**")
+        await lel.edit("🔎 **𝚁𝚄𝙺𝙾 𝚉𝙰𝚁𝙰 𝚂𝙰𝙱𝙰𝚁 𝙺𝙰𝚁𝙾 ⭐ 𝚂𝙾𝙽𝙶 𝙳𝙷𝚄𝙽𝙳𝙷 𝚁𝙰𝙷𝙰 𝙷𝚄 ❤️...uploaded by @SNEHABHI_SERVER ✨**")
         query = message.text.split(None, 1)[1]
         # print(query)
-        await lel.edit("🎵 **𝙹𝚄𝚂𝚃 𝚆𝙰𝙸𝚃 𝙰 𝚂𝙴𝙲𝙾𝙽𝙳 💫🥺 𝙵𝙾𝚁 𝙿𝙻𝙰𝚈 𝚂𝙾𝙽𝙶 😋**")
+        await lel.edit("🎵 **𝙹𝚄𝚂𝚃 𝚆𝙰𝙸𝚃 𝙰 𝚂𝙴𝙲𝙾𝙽𝙳 💫🥺 𝙵𝙾𝚁 𝙿𝙻𝙰𝚈 𝚂𝙾𝙽𝙶 😋...uploaded by @SNEHABHI_SERVER ✨**")
         try:
             results = YoutubeSearch(query, max_results=1).to_dict()
             url = f"https://youtube.com{results[0]['url_suffix']}"
@@ -255,7 +255,7 @@ async def play(_, message: Message):
                 
         except Exception as e:
             await lel.edit(
-                "❌ Beta jao song ka nam  acche se dekh kar ao.. aisa koi song nahi ha merepass 👀"
+                "❌ Beta jao song ka nam  acche se dekh kar ao.. aisa koi song nahi ha merepass 👀...uploaded by @SNEHABHI_SERVER ✨"
             )
             print(str(e))
             return
@@ -284,7 +284,7 @@ async def play(_, message: Message):
         position = await queues.put(message.chat.id, file=file_path)
         await message.reply_photo(
         photo="final.png", 
-        caption="**uploaded by @ABHI_NETWORK ✨Jo Aap Madhur Dhun Me Khoye ho Vo Ye Hai Song:** {}\n**🕒 Afsos, Ye Ganna Itni Der tak HI Apka Sath DE Payega Duration:** {} min\n**👤 Mahan Insaan Jisne Dil ko Jagane Wali Iz Madhur Dhun Ko Chuna Hai.. Added By:** {}\n\n**#⃣ Jis Position Pe Apke Ganna Hai Samaj sakta hu Apka Dukh Time Lagega 🥲 Queued Position:** {}".format(
+        caption="**uploaded by @SNEHABHI_SERVER ✨Jo Aap Madhur Dhun Me Khoye ho Vo Ye Hai Song:** {}\n**🕒 Afsos, Ye Ganna Itni Der tak HI Apka Sath DE Payega Duration:** {} min\n**👤 Mahan Insaan Jisne Dil ko Jagane Wali Iz Madhur Dhun Ko Chuna Hai.. Added By:** {}\n\n**#⃣ Jis Position Pe Apke Ganna Hai Samaj sakta hu Apka Dukh Time Lagega 🥲 Queued Position:** {}".format(
         title, duration, message.from_user.mention(), position
         ),
         reply_markup=keyboard)
@@ -295,7 +295,7 @@ async def play(_, message: Message):
         await message.reply_photo(
         photo="final.png",
         reply_markup=keyboard,
-        caption="**uploaded by @ABHI_NETWORK 🎵 Jo Aap Madhur Dhun Me Khoye ho Vo Ye Hai Song:** {}\n**🕒 Afsos, Ye Ganna Itni Der tak HI Apka Sath DE Payega Duration:** {} min\n**👤 Mahan Insaan Jisne Dil ko Jagane Wali Iz Madhur Dhun Ko Chuna Hai.. Added By:** {}\n\n**▶️ Now Playing at {}...**".format(
+        caption="**uploaded by @SNEHABHI_SERVER 🎵 Jo Aap Madhur Dhun Me Khoye ho Vo Ye Hai Song:** {}\n**🕒 Afsos, Ye Ganna Itni Der tak HI Apka Sath DE Payega Duration:** {} min\n**👤 Mahan Insaan Jisne Dil ko Jagane Wali Iz Madhur Dhun Ko Chuna Hai.. Added By:** {}\n\n**▶️ Now Playing at {}...**".format(
         title, duration, message.from_user.mention(), message.chat.title
         ), )
         os.remove("final.png")
