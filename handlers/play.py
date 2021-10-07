@@ -152,7 +152,7 @@ async def play(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        text="𝚄𝙿𝙻𝙾𝙰𝙳𝙴𝚁✨",
+                        text="💫𝚄𝙿𝙻𝙾𝙰𝙳𝙴𝚁✨",
                         url=f"https://t.me/SNEHABHI_SERVER"),
                     InlineKeyboardButton(
                         text="💫𝚃𝙰𝙻𝙺 𝚃𝙾 𝙾𝚆𝙽𝙴𝚁✨",
