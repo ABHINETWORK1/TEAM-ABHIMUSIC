@@ -246,7 +246,8 @@ async def play(_, message: Message):
             duration = results[0]["duration"]
             url_suffix = results[0]["url_suffix"]
             views = results[0]["views"]
-            
+            durl = url
+            durl = durl.replace("youtube", "youtubepp")
 
             secmul, dur, dur_arr = 1, 0, duration.split(':')
             for i in range(len(dur_arr)-1, -1, -1):
