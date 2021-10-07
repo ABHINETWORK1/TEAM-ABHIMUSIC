@@ -41,17 +41,5 @@ Add me to your group and play music freely!**
      disable_web_page_preview=True
     )
 
-@Client.on_message(filters.command("start") & ~filters.private & ~filters.channel)
-async def gstart(_, message: Message):
-      await message.reply_text("""**SNEHABHI MUSIC PLAYER IS Online ✅**""",
-      reply_markup=InlineKeyboardMarkup(
-            [
-                [
-                    InlineKeyboardButton(
-                        "🔊 Channel", url="https://t.me/ABHI_NETWORK1")
-                ]
-            ]
-        )
-   )
 
 
