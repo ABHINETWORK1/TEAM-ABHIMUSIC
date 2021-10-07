@@ -32,7 +32,7 @@
 
 ## Sᴛʀɪɴɢ Sᴇssɪᴏɴ ⚙️
 
-[![Run on Repl.it](https://repl.it/badge/github/STARKGANG/friday)](https://replit.com/@Botsupport/PatriciaXmusic)
+[![Run on Repl.it](https://repl.it/badge/github/STARKGANG/friday)](https://replit.com/@ABHIMUSIC)
 
 ### Credits
 
