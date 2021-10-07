@@ -29,7 +29,8 @@ Add me to your group and play music freely!**
                     )
                 ],[ 
                     InlineKeyboardButton(
-                        "💫𝚃𝙰𝙻𝙺 𝚃𝙾 𝙾𝚆𝙽𝙴𝚁✨", url="https://t.me/SNEHU_IS_MINE"
+                        "➕ Add To Your Group ➕", url="https://t.me/SNEHU_IS_MINE"
+                        
                     )
                 ],[
                     InlineKeyboardButton(
