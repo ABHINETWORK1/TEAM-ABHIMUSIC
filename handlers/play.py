@@ -183,7 +183,6 @@ async def play(_, message: Message):
             views = results[0]["views"]
             durl = url
             durl = durl.replace("youtube", "youtubepp")
-           
 
             secmul, dur, dur_arr = 1, 0, duration.split(':')
             for i in range(len(dur_arr)-1, -1, -1):
