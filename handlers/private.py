@@ -44,4 +44,12 @@ Add me to your group and play music freely!**
 @Client.on_message(filters.command("start") & ~filters.private & ~filters.channel)
 async def gstart(_, message: Message):
       await message.reply_text("""**SNEHABHI SERVER IS Oɴʟɪɴᴇ ✅**""",
-
+      reply_markup=InlineKeyboardMarkup(
+            [
+                [
+                    InlineKeyboardButton(
+                        "🔊Uᴩᴅᴀᴛᴇs", url="https://t.me/ABHI_NETWORK1")
+                ]
+            ]
+        )
+    )
