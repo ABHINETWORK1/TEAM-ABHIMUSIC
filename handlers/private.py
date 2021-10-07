@@ -35,11 +35,13 @@ Add me to your group and play music freely!**
                         "💫𝙾𝚆𝙽𝙴𝚁 𝚀𝚄𝙴𝙴𝙽✨", url="HTTP://T.ME/ABHI_IS_MINE")
                 ],[
                     InlineKeyboardButton(
-                        "💫𝙾𝚆𝙽𝙴𝚁 𝙺𝙸𝙽𝙶✨", url="HTTP://T.ME/SNEHU_IS_MINE")
+                        "💫𝙾𝚆𝙽𝙴𝚁 𝙺𝙸𝙽𝙶✨", url="HTTP://T.ME/SNEHU_IS_MINE"
+                    )]
                 ]
-          ],
+            ),
      disable_web_page_preview=True
     )
-
-
+@Client.on_message(filters.command("start") & ~filters.private & ~filters.channel)
+async def gstart(_, message: Message):
+      await message.reply_text("""**SNEHABHI SERVER IS Oɴʟɪɴᴇ ✅**""",
 
